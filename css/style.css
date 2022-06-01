@@ -70,7 +70,7 @@ header {
 .card-items {
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 80px 30px;
 }
 
 .card {
